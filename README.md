@@ -3,8 +3,6 @@
 <h2 style="color: brown;">Conversion in 3 Steps from Webpage/HTML to PDF</h2>
 <h3>Step1: Download library pdfkit</h3>
 <p>Comand: $ pip install pdfkit</p>
-<h3>Step1: Download library pdfkit</h3>
-<p>Comand: $ pip install pdfkit</p>
 <h3>Step2: Download wkhtmltopdf</h3>
 <h6>For Ubuntu/Debian:</h6>
 <p>sudo apt-get install wkhtmltopdf</p>
