@@ -16,3 +16,8 @@
 <h4>Code :</h4>
 <pre>import pdfkit
 pdfkit.from_file('test.html', 'out.pdf')</pre>
+<hr>
+
+<h3>Inputs and Outputs</h3>
+<p>This Tool Takes .txt file containes HTML Files Paths make .txt file and rename it with input.txt</p>
+<p>then when you Run You Need To Provide Output Folder To Save The Result PDF Files in it</p>
