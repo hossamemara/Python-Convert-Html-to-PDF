@@ -17,4 +17,4 @@
 <h3>Step3: Code in Python to Download:</h3>
 <h4>(i) Already Saved HTML page</h4>
 <pre>import pdfkit
-     pdfkit.from_file('test.html', 'out.pdf')</pre>
+pdfkit.from_file('test.html', 'out.pdf')</pre>
